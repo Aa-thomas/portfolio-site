@@ -5,49 +5,49 @@
             "project_name" : "Random Quote Generator",
             "description" : "",
             "technologies" : "HTML, CSS and JavaScript",
-            "live_link" - link to the live version of the project, which can be hosted for free on GitHub pages. Check the project resources list for a helpful reference link.
+            "live_link" : "",
             "github_link": "https://github.com/Aa-thomas/Random-quote-generator",
-            "image_urls" : - an array of strings containing file paths from the views folder to the images themselves. You'll need a main image to be shown on the landing page, and one to three images to be shown on the project page.
+            "image_urls" : ""
         },{
             "id" :  "2",
             "project_name" : "Data Pagination and Filtering",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" - link to the live version of the project, which can be hosted for free on GitHub pages. Check the project resources list for a helpful reference link.
+            "live_link" : "",
             "github_link": "https://github.com/Aa-thomas/Data-pagination-and-filtering",
-            "image_urls" : - an array of strings containing file paths from the views folder to the images themselves. You'll need a main image to be shown on the landing page, and one to three images to be shown on the project page.
+            "image_urls" : ""
         },{
             "id" :  "3",
             "project_name" : "Interactive Form",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" - link to the live version of the project, which can be hosted for free on GitHub pages. Check the project resources list for a helpful reference link.
+            "live_link" : "",
             "github_link": "https://github.com/Aa-thomas/Interactive-Form",
-            "image_urls" : - an array of strings containing file paths from the views folder to the images themselves. You'll need a main image to be shown on the landing page, and one to three images to be shown on the project page.
+            "image_urls" : ""
         },{
             "id" : "4", 
             "project_name" : "Object-Oriented-Programming Gameshow App",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" - link to the live version of the project, which can be hosted for free on GitHub pages. Check the project resources list for a helpful reference link.
+            "live_link" : "",
             "github_link": "https://github.com/Aa-thomas/oop-gameshow-app",
-            "image_urls" : - an array of strings containing file paths from the views folder to the images themselves. You'll need a main image to be shown on the landing page, and one to three images to be shown on the project page.
+            "image_urls" : ""
         },{
             "id" : "5", 
             "project_name" : "Public-API-Requests",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" - link to the live version of the project, which can be hosted for free on GitHub pages. Check the project resources list for a helpful reference link.
+            "live_link" : "",
             "github_link": "https://github.com/Aa-thomas/public-api-requests",
-            "image_urls" : - an array of strings containing file paths from the views folder to the images themselves. You'll need a main image to be shown on the landing page, and one to three images to be shown on the project page.
+            "image_urls" : ""
         },{
             "id" :  "6",
             "project_name" : "React Gallery App",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript", "React" ],
-            "live_link" - link to the live version of the project, which can be hosted for free on GitHub pages. Check the project resources list for a helpful reference link.
+            "live_link" : "",
             "github_link": "https://github.com/Aa-thomas/react-gallery-app",
-            "image_urls" : - an array of strings containing file paths from the views folder to the images themselves. You'll need a main image to be shown on the landing page, and one to three images to be shown on the project page.
+            "image_urls" : ""
         }
     ]
 }
