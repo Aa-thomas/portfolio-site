@@ -1,51 +1,51 @@
 {
     "projects": [
         {
-            "id" :  "1",
+            "id" :  0,
             "project_name" : "Random Quote Generator",
             "description" : "",
-            "technologies" : "HTML, CSS and JavaScript",
-            "live_link" : "",
+            "technologies" : [ "HTML" , "CSS", "JavaScript" ],
+            "live_link" : "https://aa-thomas.github.io/Random-quote-generator",
             "github_link": "https://github.com/Aa-thomas/Random-quote-generator",
-            "image_urls" : ""
+            "image_urls" : [ "/static/images/headshot.jpeg", "/static/images/headshot.jpeg" ]
         },{
-            "id" :  "2",
+            "id" :  1,
             "project_name" : "Data Pagination and Filtering",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" : "",
+            "live_link" : "https://aa-thomas.github.io/Data-pagination-and-filtering",
             "github_link": "https://github.com/Aa-thomas/Data-pagination-and-filtering",
             "image_urls" : ""
         },{
-            "id" :  "3",
+            "id" :  2,
             "project_name" : "Interactive Form",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" : "",
+            "live_link" : "https://aa-thomas.github.io/Interactive-Form/",
             "github_link": "https://github.com/Aa-thomas/Interactive-Form",
             "image_urls" : ""
         },{
-            "id" : "4", 
+            "id" : 3, 
             "project_name" : "Object-Oriented-Programming Gameshow App",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" : "",
+            "live_link" : "https://aa-thomas.github.io/OOP-gameshow-app/",
             "github_link": "https://github.com/Aa-thomas/oop-gameshow-app",
             "image_urls" : ""
         },{
-            "id" : "5", 
+            "id" : 4, 
             "project_name" : "Public-API-Requests",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
-            "live_link" : "",
+            "live_link" : "https://aa-thomas.github.io/Public-API-Requests/",
             "github_link": "https://github.com/Aa-thomas/public-api-requests",
             "image_urls" : ""
         },{
-            "id" :  "6",
+            "id" :  5,
             "project_name" : "React Gallery App",
             "description" : "",
             "technologies" : [ "HTML", "CSS", "JavaScript", "React" ],
-            "live_link" : "",
+            "live_link" : "https://aa-thomas.github.io/react-gallery-app/",
             "github_link": "https://github.com/Aa-thomas/react-gallery-app",
             "image_urls" : ""
         }

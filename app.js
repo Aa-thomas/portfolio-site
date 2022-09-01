@@ -5,6 +5,7 @@ const app = express();
 
 app.set('view engine', 'pug');
 app.use('/static', express.static('public'));
+app.use(express.static('images'));
 
 /* Routes */
 app.get('/', (req, res) => {
@@ -16,7 +17,9 @@ app.get('/about', (req, res) => {
 });
 
 app.get('/project/:id', (req, res) => {
-	res.render('project', { projects });
+	const project = projects[req.params.id];
+
+	res.render('project', { project });
 });
 
 /* ERROR HANDLERS */
@@ -38,11 +41,11 @@ app.use((err, req, res, next) => {
 	if (err.status === 404) {
 		res.status(404).render('page-not-found', { err });
 	} else {
-		err.status = err.status;
+		err.status = err.status || 500;
 		err.message =
 			err.message ||
 			`Oops! It looks like something went wrong on the server.`;
-		res.status(err.status || 500).render('error', { err });
+		res.status(err.status).render('error', { err });
 	}
 });
 

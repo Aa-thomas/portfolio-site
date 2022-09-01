@@ -2,5 +2,6 @@
 A portfolio site showcasing some projects I have made. Built with NodeJS and Express.
 
 <!-- to do -->
-<!-- 1. crop screenshots -->
-<!-- 2. fix bugs in earlier code projects -->
+<!--  crop screenshots -->
+<!-- Handle undefined 500 error -->
+<!--  fix bugs in earlier code projects -->
