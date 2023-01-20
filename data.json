@@ -7,7 +7,7 @@
             "technologies" : [ "HTML" , "CSS", "JavaScript" ],
             "live_link" : "https://aa-thomas.github.io/Random-quote-generator",
             "github_link": "https://github.com/Aa-thomas/Random-quote-generator",
-            "image_urls" : [ "/static/images/headshot.jpeg", "/static/images/headshot.jpeg" ]
+            "image_urls" : [ "/images/circle-headshot.jpeg", "/static/images/headshot.jpeg" ]
         },{
             "id" :  1,
             "project_name" : "Data Pagination and Filtering",
@@ -39,14 +39,6 @@
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
             "live_link" : "https://aa-thomas.github.io/Public-API-Requests/",
             "github_link": "https://github.com/Aa-thomas/public-api-requests",
-            "image_urls" : ""
-        },{
-            "id" :  5,
-            "project_name" : "React Gallery App",
-            "description" : "",
-            "technologies" : [ "HTML", "CSS", "JavaScript", "React" ],
-            "live_link" : "https://aa-thomas.github.io/react-gallery-app/",
-            "github_link": "https://github.com/Aa-thomas/react-gallery-app",
             "image_urls" : ""
         }
     ]
