@@ -7,7 +7,7 @@
             "technologies" : [ "HTML" , "CSS", "JavaScript" ],
             "live_link" : "https://aa-thomas.github.io/Random-quote-generator",
             "github_link": "https://github.com/Aa-thomas/Random-quote-generator",
-            "image_urls" : [ "/images/circle-headshot.jpeg", "/static/images/headshot.jpeg" ]
+            "image_urls" : [ "/images/rq1.png","/static/images/rq2.png" ]
         },{
             "id" :  1,
             "project_name" : "Data Pagination and Filtering",
@@ -15,7 +15,7 @@
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
             "live_link" : "https://aa-thomas.github.io/Data-pagination-and-filtering",
             "github_link": "https://github.com/Aa-thomas/Data-pagination-and-filtering",
-            "image_urls" : ""
+            "image_urls" : [ "/images/dpaf1.png","/static/images/dpaf2.png" ]
         },{
             "id" :  2,
             "project_name" : "Interactive Form",
@@ -23,7 +23,7 @@
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
             "live_link" : "https://aa-thomas.github.io/Interactive-Form/",
             "github_link": "https://github.com/Aa-thomas/Interactive-Form",
-            "image_urls" : ""
+            "image_urls" : [ "/images/if1.png","/static/images/2.png" ]
         },{
             "id" : 3, 
             "project_name" : "Object-Oriented-Programming Gameshow App",
@@ -31,7 +31,7 @@
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
             "live_link" : "https://aa-thomas.github.io/OOP-gameshow-app/",
             "github_link": "https://github.com/Aa-thomas/oop-gameshow-app",
-            "image_urls" : ""
+            "image_urls" : [ "/images/OOP1.png","/static/images/OOP1.png" ]
         },{
             "id" : 4, 
             "project_name" : "Public-API-Requests",
@@ -39,7 +39,7 @@
             "technologies" : [ "HTML", "CSS", "JavaScript" ],
             "live_link" : "https://aa-thomas.github.io/Public-API-Requests/",
             "github_link": "https://github.com/Aa-thomas/public-api-requests",
-            "image_urls" : ""
+            "image_urls" : [ "/images/rq1.png","/static/images/rq2.png" ]
         }
     ]
 }
